@@ -1,0 +1,26 @@
+# Data Processing
+numpy ==1.26
+pandas ==2.2
+
+# Database
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.7  # For PostgreSQL (optional)
+
+# Jupyter and Analysis
+jupyter==1.0.0
+notebook==7.0.2
+ipykernel==6.25.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Utilities
+python-dotenv==1.0.0  # For environment variables
+openpyxl==3.1.2       # For Excel files
+xlrd==2.0.1           # For older Excel files
+
+# Development
+black==23.7.0         # Code formatting
+pytest==7.4.0         # Testing
