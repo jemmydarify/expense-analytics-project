@@ -1,6 +1,7 @@
 # Data Processing
 numpy ==1.26
 pandas ==2.2
+pyarrow ==21.0.0
 
 # Database
 sqlalchemy==2.0.19
