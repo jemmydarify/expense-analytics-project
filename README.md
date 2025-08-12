@@ -34,7 +34,7 @@ Transform personal expense data into actionable insights through a complete data
 ## 📂 Project Status
 
 🚧 **In Progress**  
-**Day 1 Complete:** Project setup and environment configuration.
+**Day 2 Complete:** Data collection and understanding
 
 ---
 
@@ -100,7 +100,7 @@ This project follows a **15-day structured learning plan**:
 ### Week 1: Foundation & Data Preparation
 
 * Day 1: Project setup & environment configuration ✅
-* Day 2: Data collection & understanding
+* Day 2: Data collection & understanding ✅
 * Day 3: Data exploration & quality assessment
 * Day 4: Data cleaning & standardization
 * Day 5: Database design & schema creation
@@ -117,7 +117,6 @@ This project follows a **15-day structured learning plan**:
 
 ## 🚀 Next Steps
 
-* [ ] Day 2: Data collection and understanding
 * [ ] Day 3: Data exploration and quality assessment
 * [ ] Day 4: Data cleaning and standardization
 * [ ] Day 5: Database design and schema creation
